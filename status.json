@@ -14,5 +14,22 @@
       "DESCRIPTION":"MAIN DEVICE MODULE",
       "STATUS":"ACTIVE",
       "CONNECTION":"CONNECT"
+    },
+    {
+      "PLANT":"C",
+      "LOC":
+      "GWHS",
+      "DESCRIPTION":"MAIN DEVICE MODULE",
+      "STATUS":"ACTIVE",
+      "CONNECTION":"CONNECT"
+    },
+    {
+      "PLANT":"D",
+      "LOC":
+      "GWHS",
+      "DESCRIPTION":"MAIN DEVICE MODULE",
+      "STATUS":"ACTIVE",
+      "CONNECTION":"CONNECT"
     }
-  ]}
+  ]
+}
