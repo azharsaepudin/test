@@ -1,0 +1,57 @@
+{
+  "result":[
+    {
+      "D_DATE":"2018-12-17 20:16:44",
+      "PLANT":"A",
+      "DESCRIPTION":"MAIN DEVICE MAIN DEVICE MODULE",
+      "STATUS":"ACTIVE"
+      },
+      {
+      "D_DATE":"2018-12-17 20:16:39",
+      "PLANT":"A",
+      "DESCRIPTION":"MIAN DEVICE MAIN DEVICE MODULE",
+      "STATUS":"ERROR"
+      },
+      {
+      "D_DATE":"2018-12-17 20:14:57",
+      "PLANT":"A",
+      "DESCRIPTION":"MAIN DEVICE MAIN DEVICE MODULE",
+      "STATUS":"ACTIVE"
+      },
+      {
+      "D_DATE":"2018-12-15 04:33:55",
+      "PLANT":"A",
+      "DESCRIPTION":"GWHS MAIN ENTRANCE",
+      "STATUS":"ERROR"
+      },
+      {
+      "D_DATE":"2018-12-15 04:33:53",
+      "PLANT":"A",
+      "DESCRIPTION":"MAIN DEVICE MAIN DEVICE MODULE",
+      "STATUS":"ACTIVE"
+      },
+      {
+      "D_DATE":"2018-12-15 04:33:49",
+      "PLANT":"A",
+      "DESCRIPTION":"GWHS MAIN ENTRANCE",
+      "STATUS":"ERROR"
+      },{
+      "D_DATE":"2018-12-15 04:33:47",
+      "PLANT":"A",
+      "DESCRIPTION":"MAGNET DOOR MAIN ENTRANCE",
+      "STATUS":"ERROR"
+      },
+      {
+      "D_DATE":"2018-12-15 04:33:45",
+      "PLANT":"A",
+      "DESCRIPTION":"MAIN DEVICE MAIN DEVICE MODULE",
+      "STATUS":"DISACTIVE"
+      },
+      {
+      "D_DATE":"2018-12-15 04:33:39",
+      "PLANT":"A",
+      "DESCRIPTION":"MAIN DEVICE MAIN DEVICE MODULE",
+      "STATUS":"ACTIVE"
+          }
+        ]
+      }
