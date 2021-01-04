@@ -11,53 +11,53 @@ data: [
 	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
+	name_food : "Siomay",
+	description: "Siomay Khas bandung dengan Sambal Kacang yang Gurih",
 	price: 15000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://img.mbizmarket.co.id/products/thumbs/800x800/2020/04/21/2adbd0732495c0f4216673fd9ae98d86.jpg"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
-	price: 15000,
+	name_food : "Pizza",
+	description: "Toping keju & sosis",
+	price: 90000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHHfHq1DHH43NR48NSscFEujQ549xEv0n6Sw&usqp=CAU"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
-	price: 15000,
+	name_food : "Dim Sum",
+	description: "Dim Sum bandung all you can eat",
+	price: 20000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhRPhM3sU1kU3ULJLA34qmd0UwgodzoClMA&usqp=CAU"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
-	price: 15000,
+	name_food : "Ayam Keprabon",
+	description: "ayam keprabon cup package free ongkir",
+	price: 25000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://ayamkeprabon.com/data/foto_berita/geprek%20jumbo(2).jpg"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
+	name_food : "Ayam Geprek",
+	description: "Ayam gepreknya disajikan dengan toping sambal yang bisa dipilih.",
 	price: 15000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2018/11/03/2438712862.jpg"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
-	price: 15000,
+	name_food : "Es Cendol",
+	description: "Es cendol cery",
+	price: 10000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://infokuliner.com/wp-content/uploads/2014/12/resep-cara-membuat-es-cendol.jpg"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
-	price: 15000,
+	name_food : "Es Pisang Ijo",
+	description: "es pisang ijo kemasan cup",
+	price: 5000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://www.tokomesin.com/wp-content/uploads/2015/03/es-pisangijotokomesin-300x169.jpg"
 },
 {
 	name_food : "nagor",
