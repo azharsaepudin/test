@@ -60,32 +60,32 @@ data: [
 	image: "https://www.tokomesin.com/wp-content/uploads/2015/03/es-pisangijotokomesin-300x169.jpg"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
-	price: 15000,
+	name_food : "Ayam Teriaki",
+	description: "Teriyaki Chicken is a very popular Japanese dish",
+	price: 35000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://i8b2m3d9.stackpathcdn.com/wp-content/uploads/2019/06/Teriyaki_Chicken_New_3503-500x500.jpg"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
-	price: 15000,
+	name_food : "Ramen",
+	description: "Ramen extra pedas",
+	price: 25000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://images3.alphacoders.com/693/thumb-1920-693686.jpg"
 },
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
-	price: 15000,
+	name_food : "Sushi",
+	description: "N/A",
+	price: 35000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://media-cdn.tripadvisor.com/media/photo-s/09/11/4f/c0/sakura-sushi-house.jpg"
 },
 {
-	name_food : "nagor",
+	name_food : "Bakso Extra Pedas",
 	description: "nasi goreng ini enak sekali",
-	price: 15000,
+	price: 45000,
 	code: "IDR",
-	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+	image: "https://i0.wp.com/kesatu.co/kesatu-uploads/2020/03/IMG-20191219-WA0000.jpg?fit=507%2C380&ssl=1"
 }
 
 ]
