@@ -1,0 +1,80 @@
+
+{
+success: true,
+message: "get data food success",
+data: [
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+},
+{
+	name_food : "nagor",
+	description: "nasi goreng ini enak sekali",
+	price: 15000,
+	code: "IDR"
+}
+
+]
+}
