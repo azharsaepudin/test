@@ -82,7 +82,7 @@ data: [
 },
 {
 	name_food : "Bakso Extra Pedas",
-	description: "nasi goreng ini enak sekali",
+	description: "Bakso extra pedas dengan bubu cabai pilihan",
 	price: 45000,
 	code: "IDR",
 	image: "https://i0.wp.com/kesatu.co/kesatu-uploads/2020/03/IMG-20191219-WA0000.jpg?fit=507%2C380&ssl=1"
