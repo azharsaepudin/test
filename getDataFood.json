@@ -4,76 +4,88 @@ success: true,
 message: "get data food success",
 data: [
 {
-	name_food : "nagor",
-	description: "nasi goreng ini enak sekali",
-	price: 15000,
-	code: "IDR"
+	name_food : "Nasi Goreng",
+	description: "Nasi goreng dilengkapi dengan toping udang.",
+	price: 20000,
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 },
 {
 	name_food : "nagor",
 	description: "nasi goreng ini enak sekali",
 	price: 15000,
-	code: "IDR"
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
 }
 
 ]
