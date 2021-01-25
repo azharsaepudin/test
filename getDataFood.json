@@ -54,7 +54,7 @@ data: [
 {
 	foodId:"7",
 	name_food : "Es Cendol",
-	description: "Es cendol cery",
+	description: "Es cendol cery. Cendol merupakan minuman khas Sunda yang dahulunya terbuat dari tepung hunkwe, namun kini cendol terbuat dari tepung beras, disajikan dengan es parut serta gula merah cair dan santan. Rasa minuman ini manis dan gurih. Di daerah Sunda minuman ini dikenal dengan nama cendol sedangkan di Jawa Tengah dikenal dengan nama es dawet. ",
 	price: 10000,
 	code: "IDR",
 	image: "https://infokuliner.com/wp-content/uploads/2014/12/resep-cara-membuat-es-cendol.jpg"
@@ -62,7 +62,7 @@ data: [
 {
 	foodId:"8",
 	name_food : "Es Pisang Ijo",
-	description: "es pisang ijo kemasan cup",
+	description: "es pisang ijo kemasan cup. Es pisang ijo terbuat dari pisang yang dibalut dengan terigu dan dikukus sehingga hingga matang. pisang yang dibalut terigu berwarna hijau dicampurkan dengan kacang, roti dan es siap disajikan.",
 	price: 5000,
 	code: "IDR",
 	image: "https://www.tokomesin.com/wp-content/uploads/2015/03/es-pisangijotokomesin-300x169.jpg"
@@ -78,7 +78,7 @@ data: [
 {
 	foodId:"10",
 	name_food : "Ramen",
-	description: "Ramen extra pedas",
+	description: "Ramen extra pedas. Ramen merupakan olahan makanan khas Jepang dari bahan dasar mie yang berkuah. Ciri khas dari ramen adalah bentuk mie yang tipis dan berwana kuning. Sepintas mie yang digunakan dalam ramen mirip dengan mie instan yang ada di Indonesia, namun jika diperhatikan dengan seksama mie ramen memiliki diameter yang lebih kecil. Mie tersebut kemudian dimaasukan kedalam sebuah mangkuk yang berisi kuah yang terbuat dari berbagai jenis kaldu.",
 	price: 25000,
 	code: "IDR",
 	image: "https://images3.alphacoders.com/693/thumb-1920-693686.jpg"
@@ -94,7 +94,7 @@ data: [
 {
 	foodId:"12",
 	name_food : "Bakso Extra Pedas",
-	description: "Bakso extra pedas dengan bubu cabai pilihan",
+	description: "Bakso extra pedas dengan bubu cabai pilihan. bakso ekstra pedas terdapat beberapa macam ukuran, kecil, sedang dan besar. bakso ekstra pedas dengan 30 cabai pilihan terbaik.",
 	price: 45000,
 	code: "IDR",
 	image: "https://i0.wp.com/kesatu.co/kesatu-uploads/2020/03/IMG-20191219-WA0000.jpg?fit=507%2C380&ssl=1"
