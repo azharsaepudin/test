@@ -1,0 +1,10 @@
+{
+status: true,
+message: "login sukses",
+data:[
+{
+user_id : "2103300001",
+user_name : "Test",
+user_email : "test"
+}]
+}
