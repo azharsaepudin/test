@@ -1,4 +1,4 @@
-[
+{[
 {
 	guestId: 1,
 	guestEmail : "Dson@gmail.com",
@@ -226,4 +226,4 @@
 	image: "https://www.w3schools.com/howto/img_avatar.png"
 }
 ]
-
+}
